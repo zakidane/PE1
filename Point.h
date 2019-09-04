@@ -7,7 +7,10 @@
 
 
 using namespace std;
-
+//the class Point defines a point in a 2D coordinate.
+//It includes variables for the x and y coordinates
+//and functions to get distance between two points and translate a point
+//in addition to setter and getter methods
 class Point {
     private:
         float x_;
